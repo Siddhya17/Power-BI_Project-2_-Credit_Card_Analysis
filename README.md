@@ -1,1 +1,3 @@
-# Power-BI_Project-2_-Credit_Card_Analysis
+Credit Card Transaction and Customer Dashboard using Power BI
+
+# Power-BI_Project #DataAnalysis
